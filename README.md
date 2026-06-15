@@ -1,0 +1,2 @@
+# BTC-legacy-segwit-taproot-private-key-automated-generator-and-checker
+This program continuously generates Bitcoin private keys and derives their corresponding public addresses. Each generated address is checked against blockchain data to determine whether it has any associated balance or transaction history. Any matching results are logged and saved to a text file within the designated output folder.
